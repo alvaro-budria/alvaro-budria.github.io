@@ -21,7 +21,7 @@ repository               : "alvaro-budria.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped.jpg" #"profile.png"
+  avatar           : "cropped_2.jpg" #"profile.png"
   name             : "Alvaro Budria"
   pronouns         : "he/him - ell/el/seu - él/le/suyo"
   bio              : "Researcher in Computer Vision at IRI, UPC"

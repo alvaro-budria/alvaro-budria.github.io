@@ -7,7 +7,7 @@ author_profile: true
 
 * **InstantGeoAvatar: Fast Geometry and Appearance Modeling of Animatable Avatars from Monocular Video**
   * **Alvaro Budria**, Adrian Lopez-Rodriguez, Òscar Lorente, and Francesc Moreno-Noguer
-  * Under review
+  * Under review at ACCV 2024
   * [Slideshow](https://docs.google.com/presentation/d/1W1xcLV3FLnGnLffZ_BTvNskKg-86yssilq7yl_ouoU8/edit?usp=sharing)
 
 * **Topic Detection in Continuous Sign Language Videos**

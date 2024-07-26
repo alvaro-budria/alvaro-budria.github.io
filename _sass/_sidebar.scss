@@ -90,11 +90,11 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 375px;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 3px;
       border: 1px solid $border-color;
     }
   }
@@ -105,7 +105,7 @@
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
-  line-height: 1;
+  line-height: 4;
 
   @include breakpoint($large) {
     display: block;
