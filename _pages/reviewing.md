@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-* ECCV, 2024
+* ECCV, 2024. __Outstanding reviewer__.
 
-* CVPR, 2024. __Outstanding reviewer__  (among 2% selected)
+* CVPR, 2024. __Outstanding reviewer__.
