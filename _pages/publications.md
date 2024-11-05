@@ -7,8 +7,8 @@ author_profile: true
 
 * **InstantGeoAvatar: Effective Geometry and Appearance Modeling of Animatable Avatars from Monocular Video**
   * **Alvaro Budria**, Adrian Lopez-Rodriguez, Òscar Lorente, and Francesc Moreno-Noguer
-  * Accepted at Asian Conference on Computer Vision (ACCV), 2024
-  * [Slideshow](https://docs.google.com/presentation/d/1W1xcLV3FLnGnLffZ_BTvNskKg-86yssilq7yl_ouoU8/edit?usp=sharing)
+  * Presented (poster) at Asian Conference on Computer Vision (ACCV), 2024
+  * [Paper](https://arxiv.org/abs/2411.01512), [Slideshow](https://docs.google.com/presentation/d/1W1xcLV3FLnGnLffZ_BTvNskKg-86yssilq7yl_ouoU8/edit?usp=sharing)
 
 * **Topic Detection in Continuous Sign Language Videos**
   * **Alvaro Budria**,  Laia Tarres, Gerard I. Gallego, Francesc Moreno-Noguer, Jordi Torres and Xavier Giro-i-Nieto

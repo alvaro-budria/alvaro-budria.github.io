@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 \
-**_PhD candidate (pre-doctoral student) (IRI, UPC)_, Barcelona (Oct. 2024)**
+**_PhD candidate (pre-doctoral student) (IRI, UPC)_, Barcelona (Nov. 2023)**
 
 - Computer Vision, 3D Human Avatars
 - Advisors: [Francesc Moreno-Noguer](https://scholar.google.com/citations?user=iAEBIB4AAAAJ&hl=ca) and [Jordi Sanchez](https://jsan3386.github.io/)

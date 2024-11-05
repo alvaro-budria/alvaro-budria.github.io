@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://alvaro-budria.github.io/files/CV.pdf) (last updated September '24).
+You can download my CV [here](https://alvaro-budria.github.io/files/CV.pdf) (last updated November '24).
