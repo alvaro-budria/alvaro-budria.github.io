@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am a PhD candidate at University of Amsterdam (UvA), working with Prof. [Dimitris Tzionas](https://dtzionas.com/).
+I am a PhD candidate at CVLab @ University of Amsterdam (UvA), working with Prof. [Dimitris Tzionas](https://dtzionas.com/).
 
 My research interests are in Computer Vision, Graphics, and Machine Learning, with a focus on __human motion generation__ and __human-object interaction synthesis__.
 
