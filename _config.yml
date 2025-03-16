@@ -11,7 +11,7 @@ locale                   : "ca-ES"
 title                    : "Alvaro Budria"
 title_separator          : "-"
 name                     : &name "Alvaro Budria"
-description              : &description "Researcher in Computer Vision at IRI, UPC"
+description              : &description "Doctoral Researcher in Computer Vision at UvA"
 url                      : https://alvaro-budria.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alvaro-budria.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "cropped_2.jpg" #"profile.png"
   name             : "Alvaro Budria"
   pronouns         : "he/him - ell/el/seu - él/le/suyo"
-  bio              : "Researcher in Computer Vision at IRI, UPC"
-  location         : "Barcelona"
-  employer         : "IRI, UPC"
+  bio              : "Doctoral Researcher in Computer Vision at UvA"
+  location         : "Amsterdam"
+  employer         : "UvA"
   uri              : # URL
-  email            : "alvaro.francesc.budria@estudiantat.upc.edu"
+  email            : "a.budria@uva.nl"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
