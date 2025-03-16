@@ -21,12 +21,12 @@ repository               : "alvaro-budria.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped_2.jpg" #"profile.png"
+  avatar           : "cropped_3.jpg" #"profile.png"
   name             : "Alvaro Budria"
   pronouns         : "he/him - ell/el/seu - él/le/suyo"
   bio              : "Doctoral Researcher in Computer Vision at UvA"
   location         : "Amsterdam"
-  employer         : "UvA"
+  employer         : "Universiteit van Amsterdam"
   uri              : # URL
   email            : "a.budria@uva.nl"
 
