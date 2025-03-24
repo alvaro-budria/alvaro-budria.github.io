@@ -11,7 +11,7 @@ About Me
 ======
 I am a PhD candidate at CVLab @ University of Amsterdam ([UvA](https://ivi.fnwi.uva.nl/cv/)), advised by Prof. [Dimitris Tzionas](https://dtzionas.com/).
 
-My research interests are in Computer Vision, Graphics, and Machine Learning, with a focus on __human motion generation__ and __human-object interaction synthesis__.
+My research interests are in Computer Vision, Graphics, and Machine Learning, with a focus on __reconstruction and synthesis of human-object interactions__.
 
 -----------
 
